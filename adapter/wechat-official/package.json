@@ -1,7 +1,7 @@
 {
   "name": "@koishijs/plugin-adapter-wechat-official",
   "description": "Wechat Official Adapter for Koishi",
-  "version": "2.4.2",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -46,6 +46,6 @@
     "koishi": "^4.18.11"
   },
   "dependencies": {
-    "@satorijs/adapter-wechat-official": "^2.4.2"
+    "@satorijs/adapter-wechat-official": "*"
   }
 }

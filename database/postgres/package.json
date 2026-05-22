@@ -1,7 +1,7 @@
 {
   "name": "@koishijs/plugin-database-postgres",
   "description": "PostgreSQL support for Koishi",
-  "version": "2.7.0",
+  "version": "0.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
